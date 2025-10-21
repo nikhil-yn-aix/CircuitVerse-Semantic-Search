@@ -332,7 +332,7 @@ specifically helps:
 
 ## running it yourself
 
-github: [your-github-link-here]
+github: https://github.com/nikhil-yn-aix/CircuitVerse-Semantic-Search
 
 **requirements:**
 ```bash

@@ -1,0 +1,8 @@
+test*
+*.json
+data/
+circuit_collection_full/
+.obsidian/
+docs/
+embeddings/
+git_cheatsheet.md

@@ -6,3 +6,4 @@ circuit_collection_full/
 docs/
 embeddings/
 git_cheatsheet.md
+__pycache__/
